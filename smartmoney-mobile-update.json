@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.1-web.20261004204102",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004204102.zip",
-    "checksum":  "a79645fa5e767133863aa7759ea355dc3636f6e0291027ba00171ad3a1e3263c",
+    "version":  "1.1.1-web.20261004204238",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004204238.zip",
+    "checksum":  "f0bb6b7b9e03ce33af5663e95c06070fd720584a1da5eb750ffb3e7a3cf35980",
     "nativeVersion":  "1.1.1",
-    "publishedAt":  "2026-10-05T02:41:14.3574950Z",
-    "notes":  "Corrige la reversión automática de la actualización móvil: confirma el paquete antes de montar React y amplía el margen de validación nativa."
+    "publishedAt":  "2026-10-05T02:42:50.1164095Z",
+    "notes":  "Corrige permanentemente el actualizador: confirma el paquete antes de React y resuelve el manifiesto por el commit vigente de GitHub, sin depender de la caché de main."
 }
