@@ -1,8 +1,7 @@
 {
-    "version":  "1.1.1-web.20261004212244",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004212244.zip",
-    "checksum":  "ef0c074a6907c8f6bb309de444c001ca2d461d6de98ba87209b1dcfe2c7481f6",
-    "nativeVersion":  "1.1.1",
-    "publishedAt":  "2026-10-05T03:22:57.9919321Z",
-    "notes":  "Ajustes móviles: configuración de metas, encabezado de movimientos sin solapamientos y filas compactas con fecha y hora alineadas"
+    "version":  "1.1.1-web.20261004214158",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004214158.zip",
+    "checksum":  "f6d8363bfaef92d36d5a6176a75bd3727162db2d484c396bde46f555fdf148ed",
+    "publishedAt":  "2026-10-05T03:42:10.9815795Z",
+    "notes":  "Restablece el botón Actualizar: OTA de interfaz compatible sin bloqueo por versión del APK"
 }
