@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.5-web.20261004221901",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.5-web.20261004221901.zip",
-    "checksum":  "8a018f02c8f500cf78c4b4201a7aeab3f26d96aea9706f7972917dc003f33962",
-    "publishedAt":  "2026-10-05T04:19:14.3039289Z",
-    "notes":  "SmartMoney 1.1.5: actualizador móvil usa directamente el puente nativeCallback y elimina la dependencia de nativePromise"
+    "version":  "1.1.6-web.20261004222501",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.6-web.20261004222501.zip",
+    "checksum":  "bc07a421b4ae3e01c497d2f1eaecee1bed3d2789c27be0090a5e0ea6ef44096f",
+    "publishedAt":  "2026-10-05T04:25:13.8670192Z",
+    "notes":  "Actualizacion de interfaz de SmartMoney"
 }
