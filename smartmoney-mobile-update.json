@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.2-web.20261004215102",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.2-web.20261004215102.zip",
-    "checksum":  "d207f2c5e7c8a0e0b7a20bc66b6724aec1fe828964feab79f6184a369987f9ce",
-    "publishedAt":  "2026-10-05T03:51:14.6635127Z",
-    "notes":  "SmartMoney 1.1.2: últimas mejoras móviles y actualización automática validada desde el botón"
+    "version":  "1.1.3-web.20261004220132",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.3-web.20261004220132.zip",
+    "checksum":  "1c71699aa51b39aacaeec33dc6f0ab747476bcbbdd5e62cee8211f32e2ea738e",
+    "publishedAt":  "2026-10-05T04:01:44.6655774Z",
+    "notes":  "SmartMoney 1.1.3: corrige nativePromise is not a function y restablece las actualizaciones desde el botón"
 }
