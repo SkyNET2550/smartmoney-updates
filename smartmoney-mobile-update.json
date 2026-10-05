@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.1-web.20261004204238",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004204238.zip",
-    "checksum":  "f0bb6b7b9e03ce33af5663e95c06070fd720584a1da5eb750ffb3e7a3cf35980",
+    "version":  "1.1.1-web.20261004205558",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004205558.zip",
+    "checksum":  "2e9af6ef9d392c9eff38c492b4f017b6d0c5da10129556c15f096484ea763cca",
     "nativeVersion":  "1.1.1",
-    "publishedAt":  "2026-10-05T02:42:50.1164095Z",
-    "notes":  "Corrige permanentemente el actualizador: confirma el paquete antes de React y resuelve el manifiesto por el commit vigente de GitHub, sin depender de la caché de main."
+    "publishedAt":  "2026-10-05T02:56:11.1558133Z",
+    "notes":  "Busca actualizaciones al abrir Android y pide confirmación antes de instalarlas; recupera descargas pendientes, añade navegación Atrás sucesiva y corrige las tarjetas de compromisos."
 }
