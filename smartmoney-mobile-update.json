@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.1-web.20261004214158",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004214158.zip",
-    "checksum":  "f6d8363bfaef92d36d5a6176a75bd3727162db2d484c396bde46f555fdf148ed",
-    "publishedAt":  "2026-10-05T03:42:10.9815795Z",
-    "notes":  "Restablece el botón Actualizar: OTA de interfaz compatible sin bloqueo por versión del APK"
+    "version":  "1.1.2-web.20261004215102",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.2-web.20261004215102.zip",
+    "checksum":  "d207f2c5e7c8a0e0b7a20bc66b6724aec1fe828964feab79f6184a369987f9ce",
+    "publishedAt":  "2026-10-05T03:51:14.6635127Z",
+    "notes":  "SmartMoney 1.1.2: últimas mejoras móviles y actualización automática validada desde el botón"
 }
