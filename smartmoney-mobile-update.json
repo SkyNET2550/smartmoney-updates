@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.1-web.20261004202029",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web.zip",
-    "checksum":  "80d115c4de17e197fab249ef0dafdf9b3f23e3452047adfe408d4f91b2836775",
+    "version":  "1.1.1-web.20261004203322",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004203322.zip",
+    "checksum":  "dabd86477df2adb5b016d6b228b8360a9bae5746848baa5b151357366c2be35c",
     "nativeVersion":  "1.1.1",
-    "publishedAt":  "2026-10-05T02:20:41.5483884Z",
-    "notes":  "Interfaz móvil reorganizada para 375 px y Pixel 8: movimientos, filtros, informes, programación en dos columnas, plan financiero, cuentas y apartados. Incluye nuevo icono permanente de SmartMoney."
+    "publishedAt":  "2026-10-05T02:33:34.5827585Z",
+    "notes":  "Corrige la superposición del menú sobre Haber, compacta iconos y números de Movimientos y estabiliza el canal automático con manifiesto anticaché y ZIP versionado."
 }
