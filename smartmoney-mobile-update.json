@@ -1,8 +1,8 @@
-﻿{
-    "version":  "1.1.1-web.20261004203322",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004203322.zip",
-    "checksum":  "dabd86477df2adb5b016d6b228b8360a9bae5746848baa5b151357366c2be35c",
+{
+    "version":  "1.1.1-web.20261004204102",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.1.1-web.20261004204102.zip",
+    "checksum":  "a79645fa5e767133863aa7759ea355dc3636f6e0291027ba00171ad3a1e3263c",
     "nativeVersion":  "1.1.1",
-    "publishedAt":  "2026-10-05T02:33:34.5827585Z",
-    "notes":  "Corrige la superposición del menú sobre Haber, compacta iconos y números de Movimientos y estabiliza el canal automático con manifiesto anticaché y ZIP versionado."
+    "publishedAt":  "2026-10-05T02:41:14.3574950Z",
+    "notes":  "Corrige la reversión automática de la actualización móvil: confirma el paquete antes de montar React y amplía el margen de validación nativa."
 }
