@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.15-web.20261017210337",
-    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.6.15-web.20261017210337.zip",
-    "checksum":  "d797458019ddcdeee56d025ea04cebb3d0c9285cf44362214b6f7f580f35fcf3",
-    "publishedAt":  "2026-10-18T03:04:25.1539546Z",
+    "version":  "1.6.15-web.20261017213736",
+    "url":  "https://raw.githubusercontent.com/SkyNET2550/smartmoney-updates/main/smartmoney-mobile-web-1.6.15-web.20261017213736.zip",
+    "checksum":  "231999dd3fab188a5cab0e2fc7d834edbb51fab37d64e4199ad72b429abc62d5",
+    "publishedAt":  "2026-10-18T03:38:27.6809589Z",
     "notes":  "Actualizacion de interfaz de SmartMoney"
 }
